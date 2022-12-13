@@ -4,4 +4,4 @@
 
 ![Alt text](serverlessApplicationArchitecture.png)
 
-Source for the porject: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
+Source for the project: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
